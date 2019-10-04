@@ -14,7 +14,7 @@ function takeANumber(array, name) {
 /*Rewrite Take a number   */ 
 // assigns sequential numbers based on when u place orede //
 
- var assignNumber = 1 ;
+ var assignNumber = 0 ;
  
 function takeNumbernew(array) {
   assignNumber++ ;

@@ -16,9 +16,9 @@ function takeANumber(array, name) {
 
 function takeNumbernew(array) {
   array.push(name);
-  var assignNumber = 
+  var assignNumber = 1 ;
   var welcomeMessage 
-  = `Welcome. You have ticket number ${position}` ; 
+  = `Welcome. You have ticket number ${assignNumber}` ; 
   console.log(welcomeMessage);
   // Print Current Line 
   console.log(array); 

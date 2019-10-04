@@ -15,6 +15,7 @@ function takeANumber(array, name) {
 // assigns sequential numbers based on when u place orede //
 // This was interview question .. to assign a number instead of a name 
 
+/*
  var assignNumber = 0 ;
  
 function takeNumbernew(array) {
@@ -29,7 +30,7 @@ function takeNumbernew(array) {
 }
 
  takeNumbernew();
-
+*/
 
 
 function nowServing(array) {

@@ -26,7 +26,7 @@ function takeNumbernew(array) {
   return welcomeMessage ; 
 }
 
-takeNumbernew();
+// takeNumbernew();
 
 
 

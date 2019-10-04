@@ -18,7 +18,7 @@ function takeNumbernew(array) {
   array.push(name);
   var position = array.indexOf(name) + 1 ;
   var welcomeMessage 
-  = `Welcome. You are number ${position} in line.` ; 
+  = `Welcome. You have ticket number ${position}` ; 
   console.log(welcomeMessage);
   // Print Current Line 
   console.log(array); 

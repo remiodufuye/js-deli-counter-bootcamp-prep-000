@@ -11,6 +11,15 @@ function takeANumber(array, name) {
   return welcomeMessage ; 
 }
 
+/*Rewrite Take a number   */ 
+// assigns sequential numbers based on when u place orede //
+
+function takeNumbernew(array) {
+  
+}
+
+
+
 
 function nowServing(array) {
   

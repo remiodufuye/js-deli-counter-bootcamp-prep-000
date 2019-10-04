@@ -15,7 +15,14 @@ function takeANumber(array, name) {
 // assigns sequential numbers based on when u place orede //
 
 function takeNumbernew(array) {
-  
+  array.push(name);
+  var position = array.indexOf(name) + 1 ;
+  var welcomeMessage 
+  = `Welcome. You are number ${position} in line.` ; 
+  console.log(welcomeMessage);
+  // Print Current Line 
+  console.log(array); 
+  return welcomeMessage ; 
 }
 
 

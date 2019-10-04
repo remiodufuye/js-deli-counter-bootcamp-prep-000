@@ -13,6 +13,7 @@ function takeANumber(array, name) {
 
 /*Rewrite Take a number   */ 
 // assigns sequential numbers based on when u place orede //
+// This was interview question .. to assign a number instead of a name 
 
  var assignNumber = 0 ;
  
